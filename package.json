@@ -1,0 +1,32 @@
+{
+    "name": "ana-front",
+    "version": "1.0.0",
+    "description": "Ana front-end",
+    "scripts": {
+        "format": "prettier ./src"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ana-front"
+    },
+    "keywords": [
+        "ana",
+        "animal",
+        "front"
+    ],
+    "author": "Daniel Silva",
+    "license": "ISC",
+    "dependencies": {
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-redux": "^7.2.5",
+        "styled-components": "^5.3.1"
+    },
+    "devDependencies": {
+        "@types/react": "^17.0.30",
+        "@types/react-dom": "^17.0.9",
+        "@types/react-redux": "^7.1.19",
+        "@types/styled-components": "^5.1.15",
+        "prettier": "2.4.1"
+    }
+}
