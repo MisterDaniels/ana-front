@@ -4,7 +4,7 @@
 
     // Utils
     "editor.rulers": [
-        { 
+        {
             "column": 80,
             "color": "#f1fa8c33"
         },
@@ -21,5 +21,5 @@
 
     // Code patterns
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true,
+    "editor.formatOnSave": true
 }
